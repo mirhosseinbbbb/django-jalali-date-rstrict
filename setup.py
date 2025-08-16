@@ -17,11 +17,11 @@ setup(
     description=(
         'Jalali Date support for user interface. Easy conversion of DateTimeFiled to JalaliDateTimeField within the admin site, views, forms and templates.'
     ),
-    url='http://github.com/a-roomana/django-jalali-date',
+    url='https://github.com/mirhosseinbbbb/django-jalali-date-rstrict',
     download_url='https://pypi.python.org/pypi/django-jalali-date-rstrict/',
     author='Arman Roomana',
     author_email='roomana.arman@gmail.com',
-    keywords="django jalali date",
+    keywords="django jalali date rstrict",
     license='MIT',
     platforms=['any'],
     install_requires=[
